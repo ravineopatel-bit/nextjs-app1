@@ -30,11 +30,7 @@ const Featured = () => {
                The First Step: Nerves and Expectations
 
               Like many beginners
-                I walked into the studio feeling a mix of curiosity and anxiety. I had always admired dancers from afar — their grace, confidence, and rhythm seemed almost magical. But I wasn’t sure if I could move like that, let alone in front of others. I wore comfortable clothes and shoes, hoping that would somehow make up for my lack of experience.
-
-              The instructor welcomed everyone with a smile and encouraged us not to worry about perfection. "This class is about learning and enjoying yourself," she said. That helped calm my nerves — a little.
-
-
+                
 
             </p>
             <button className={styls.button}>Read More</button>
